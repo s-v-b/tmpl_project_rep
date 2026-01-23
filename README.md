@@ -5,17 +5,17 @@ Course : [Analyse Exploratoire](https://s-v-b.github.io/MA7BY020/)
 ## Repository organization
 
 ```
-|- R 
-|- data/
-|- _extensions/
-|- _freeze/
-|- resources/
-|- .nojekyll
-|- _quarto.yml
-|- _variables.yml
-|- theme.scss
-|- report.qmd
--- README.md
+.
+├── _data
+├── _extensions
+├── _freeze
+├── LICENSE
+├── MA7BY020-HMW-I.qmd
+├── presentation.qmd
+├── _quarto.yml
+├── README.md
+├── report.qmd
+└── _variables.yml
 
 ```
 
